@@ -1,0 +1,8 @@
+imports:
+- path: vm_template.jinja
+
+resources:
+- name: vm_template
+  type: vm_template.jinja
+  properties:
+    zone: ZONE_TO_RUN
